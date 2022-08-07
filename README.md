@@ -1,5 +1,7 @@
 # Hello, CloudWatch Alarms!
 
+This is the the code project for the [Hello, App Runner!](https://davidpallmann.hashnode.dev/hello-cloudwatch-alarms) blog post.
+
 This episode: Amazon CloudWatch Alarms. In this [Hello, Cloud](https://davidpallmann.hashnode.dev/hello-cloud) blog series, we're covering the basics of AWS 
 
 In this post we'll introduce CloudWatch Alarms and use them with a "Hello, Cloud" .NET program to monitor AWS resources and send alert notifications. We'll do this step-by-step, making no assumptions other than familiarity with C# and Visual Studio. We're using Visual Studio 2022 and .NET 6.
