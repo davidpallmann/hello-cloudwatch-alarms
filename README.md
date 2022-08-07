@@ -1,4 +1,4 @@
-# Hello, App Runner!
+# Hello, CloudWatch Alarms!
 
 This episode: Amazon CloudWatch Alarms. In this [Hello, Cloud](https://davidpallmann.hashnode.dev/hello-cloud) blog series, we're covering the basics of AWS 
 
