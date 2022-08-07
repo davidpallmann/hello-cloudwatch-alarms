@@ -1,6 +1,6 @@
 # Hello, CloudWatch Alarms!
 
-This is the the code project for the [Hello, App Runner!](https://davidpallmann.hashnode.dev/hello-cloudwatch-alarms) blog post.
+This is the code project for the [Hello, App Runner!](https://davidpallmann.hashnode.dev/hello-cloudwatch-alarms) blog post.
 
 This episode: Amazon CloudWatch Alarms. In this [Hello, Cloud](https://davidpallmann.hashnode.dev/hello-cloud) blog series, we're covering the basics of AWS 
 
